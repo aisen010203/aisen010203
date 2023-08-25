@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PRUEBA 1" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="PELICULAS",01 | PRUEBA | SD
+http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/153956
 #EXTINF:-1 tvg-id="I464.75176.schedulesdirect.org" tvg-name="01 | TUDN MX | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽MX | LIGA MX⚽",01 | TUDN MX | HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/153955
 #EXTINF:-1 tvg-id="" tvg-name="02 | TUDN USA | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽MX | LIGA MX⚽",02 | TUDN USA | FHD
