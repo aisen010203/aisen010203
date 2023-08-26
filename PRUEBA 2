@@ -1,11 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="PELICULAS CAM",I link pelisI
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/144346
-#EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-2-esl-CO/eec2fa793835-warner_bb_cinecol_480x670.jpg" group-title="PELICULAS CAM",Spider-Man: A través del Spider-Verso
+#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious (2001)" tvg-logo="http://obsfullhd.tv:25461/images/347c0ffdb2406cbff43a9554aeca3710.jpg" group-title="PELICULAS CAM",Fast and Furious (2001)
+http://obsfullhd.tv:25461/movie/Tex@epic/aEbP8BkLjw/82065.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-2-esl-CO/eec2fa793835-warner_bb_cinecol_480x670.jpg" group-title="PELICULAS CAM",Blue Beetle
 https://lgdv7rsrciea.lions-vidcdn.com/hls2/01/00482/l85uxetbks80_n/master.m3u8?t=TaghbH1ZJVZw5pjHHDwi_kPJZxI5Knc5Pt0ZY-3zoxU&s=1693004355&e=129600&f=2412136&srv=dmdypdl3905p&i=0.4&sp=1500&p1=dmdypdl3905p&p2=dmdypdl3905p&asn=3816
-#EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-2-esl-CO/eec2fa793835-warner_bb_cinecol_480x670.jpg" group-title="PELICULAS CAM",Blue Beetle
-https://lgdv7rsrciea.lions-vidcdn.com/hls2/01/00482/l85uxetbks80_n/master.m3u8?t=TaghbH1ZJVZw5pjHHDwi_kPJZxI5Knc5Pt0ZY-3zoxU&s=1693004355&e=129600&f=2412136&srv=dmdypdl3905p&i=0.4&sp=1500&p1=dmdypdl3905p&p2=dmdypdl3905p&asn=3816
-#EXTINF:-1 tvg-id="" tvg-name="PRUEBA 1" tvg-logo="https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2023/05/345853355_217097244389706_4712783620071269647_n.jpg?resize=1024%2C1024&ssl=1/logos/canales/claros/tudn-mediano.png" group-title="PELICULAS CAM",Megalodón 2: El gran abismo
+#EXTINF:-1 tvg-id="" tvg-name="Megalodón 2: El gran abismo" tvg-logo="https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2023/05/345853355_217097244389706_4712783620071269647_n.jpg?resize=1024%2C1024&ssl=1/logos/canales/claros/tudn-mediano.png" group-title="PELICULAS CAM",Megalodón 2: El gran abismo
 https://togtbtzsk9xf.lions-vidcdn.com/hls2/01/00433/cbvomfgb4kv8_o/master.m3u8?t=jsvTry1OoKSswkAh1dYZqR1lX21ltLbmKFoUDl8_TWo&s=1693002613&e=129600&f=2167654&srv=yy4gk837q2p6&i=0.4&sp=1500&p1=yy4gk837q2p6&p2=yy4gk837q2p6&asn=3816
 #EXTINF:-1 tvg-id="I464.75176.schedulesdirect.org" tvg-name="01 | TUDN MX | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽MX | LIGA MX⚽",01 | TUDN MX | HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/153955
