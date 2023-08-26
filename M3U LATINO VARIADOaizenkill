@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Fast and Furious (2001)" tvg-logo="http://obsfullhd.tv:25461/images/347c0ffdb2406cbff43a9554aeca3710.jpg" group-title="PELICULAS CAM",Fast and Furious (2001)
-http://obsfullhd.tv:25461/movie/Tex@epic/aEbP8BkLjw/82065.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Spiderman multiverso 2" tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/fkzkitxvqaangsf_ajzm.960.jpg" group-title="PELICULAS CAM",Spiderman multiverso 2
-https://861472308.tapecontent.net/radosgw/A2vVmOyzJJivWz/Li121CrGaJ283Q0OGP6oZle0xw8wc0Eut34naAAS476EUNK8U4Y3HpyjP2kuH06JxYSsVQ-Z444AgrfdQ14Bvk8m_mnO9dXQwqwdSM3f3O7c95goeecLFE6o45rE0xhK5fKnx7PXoUi12bHUtcYz0qLsYVoNsDEREOx5GveB0M8p06DHBmUPe7ZCgqistb-nzInaajlw-crDvw8Ub8PEoAK2X_TKFEQ33RXKDf0HG7ChkfZ67M9wYC-LcBj3YmQsWqHfGEB2nEkM6xbvXpuGlEVjuPXVVQUbXYVpwY5fPGtXOBBpF9cO-sai48-QFf41huNGlNXemZ0zl1-X/193101--ec748ecc-934e-4e34-89a0-0b6cd2db8399--rncf--1507750-streamtape.mp4?stream=1
-#EXTINF:-1 tvg-id="" tvg-name="Blue Beetle" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-2-esl-CO/eec2fa793835-warner_bb_cinecol_480x670.jpg" group-title="PELICULAS CAM",Blue Beetle
-https://lgdv7rsrciea.lions-vidcdn.com/hls2/01/00482/l85uxetbks80_n/master.m3u8?t=TaghbH1ZJVZw5pjHHDwi_kPJZxI5Knc5Pt0ZY-3zoxU&s=1693004355&e=129600&f=2412136&srv=dmdypdl3905p&i=0.4&sp=1500&p1=dmdypdl3905p&p2=dmdypdl3905p&asn=3816
-#EXTINF:-1 tvg-id="" tvg-name="Megalodón 2: El gran abismo" tvg-logo="https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2023/05/345853355_217097244389706_4712783620071269647_n.jpg?resize=1024%2C1024&ssl=1/logos/canales/claros/tudn-mediano.png" group-title="PELICULAS CAM",Megalodón 2: El gran abismo
-https://u3y8v8u4.aucdn.net/library/461665/d9c5e65a493b21612bb28eba62d39a7722bf9535.mp4
 #EXTINF:-1 tvg-id="I464.75176.schedulesdirect.org" tvg-name="01 | TUDN MX | HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽MX | LIGA MX⚽",01 | TUDN MX | HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/153955
 #EXTINF:-1 tvg-id="" tvg-name="02 | TUDN USA | FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tudn-mediano.png" group-title="⚽MX | LIGA MX⚽",02 | TUDN USA | FHD
@@ -4501,663 +4493,663 @@ http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/300523
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/300871
 #EXTINF:-1 tvg-id="" tvg-name="19:30 Fluminense vs. Olimpia (Libertadores)" tvg-logo="" group-title="EVENTOS DIARIOS",19:30 Fluminense vs. Olimpia (Libertadores)
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/300872
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY LAT" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="A D U L T O S",PLAYBOY LAT
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY LAT" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX SOCCER",PLAYBOY LAT
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/199387
-#EXTINF:-1 tvg-id="" tvg-name="18+ NURIA Y 2 PICHONES PARA NAVIDAD" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ NURIA Y 2 PICHONES PARA NAVIDAD
+#EXTINF:-1 tvg-id="" tvg-name="18+ NURIA Y 2 PICHONES PARA NAVIDAD" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ NURIA Y 2 PICHONES PARA NAVIDAD
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura MerakI" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ PutaLocura MerakI
+#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura MerakI" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ PutaLocura MerakI
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Habana" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ PutaLocura Habana
+#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Habana" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ PutaLocura Habana
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Esmeralda" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ PutaLocura Esmeralda
+#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Esmeralda" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ PutaLocura Esmeralda
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Dayana Teen" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ PutaLocura Dayana Teen
+#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Dayana Teen" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ PutaLocura Dayana Teen
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Daphne Bachelet" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ PutaLocura Daphne Bachelet
+#EXTINF:-1 tvg-id="" tvg-name="18+ PutaLocura Daphne Bachelet" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ PutaLocura Daphne Bachelet
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ CITA A CIEGAS" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ CITA A CIEGAS
+#EXTINF:-1 tvg-id="" tvg-name="18+ CITA A CIEGAS" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ CITA A CIEGAS
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Las TETAZAS De Mercé" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Las TETAZAS De Mercé
+#EXTINF:-1 tvg-id="" tvg-name="18+ Las TETAZAS De Mercé" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Las TETAZAS De Mercé
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La Nena se va con Sergio !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La Nena se va con Sergio !
+#EXTINF:-1 tvg-id="" tvg-name="18+ La Nena se va con Sergio !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La Nena se va con Sergio !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Adrian y su nueva Amiga" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Adrian y su nueva Amiga
+#EXTINF:-1 tvg-id="" tvg-name="18+ Adrian y su nueva Amiga" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Adrian y su nueva Amiga
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Tania la Tetona Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Tania la Tetona Caliente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Tania la Tetona Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Tania la Tetona Caliente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ El Golpe del Triunfo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ El Golpe del Triunfo
+#EXTINF:-1 tvg-id="" tvg-name="18+ El Golpe del Triunfo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ El Golpe del Triunfo
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Escuadrón de Lesbianas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Escuadrón de Lesbianas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Escuadrón de Lesbianas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Escuadrón de Lesbianas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Chicas Fáciles para Follarlas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Chicas Fáciles para Follarlas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Chicas Fáciles para Follarlas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Chicas Fáciles para Follarlas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+  Buscando Guerra por Whatsapp" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+  Buscando Guerra por Whatsapp
+#EXTINF:-1 tvg-id="" tvg-name="18+  Buscando Guerra por Whatsapp" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+  Buscando Guerra por Whatsapp
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Don Quixxxote y sus Aventuras" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Don Quixxxote y sus Aventuras
+#EXTINF:-1 tvg-id="" tvg-name="18+ Don Quixxxote y sus Aventuras" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Don Quixxxote y sus Aventuras
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Nacho Vs Ana Ribera sin Límites" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Nacho Vs Ana Ribera sin Límites
+#EXTINF:-1 tvg-id="" tvg-name="18+ Nacho Vs Ana Ribera sin Límites" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Nacho Vs Ana Ribera sin Límites
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Culos y Tetas Pack Colombianas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Culos y Tetas Pack Colombianas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Culos y Tetas Pack Colombianas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Culos y Tetas Pack Colombianas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Tania con la Polla Gorda de Salva !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Tania con la Polla Gorda de Salva !!
+#EXTINF:-1 tvg-id="" tvg-name="18+ Tania con la Polla Gorda de Salva !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Tania con la Polla Gorda de Salva !!
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Claudia y Nekane arde Granada" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Claudia y Nekane arde Granada
+#EXTINF:-1 tvg-id="" tvg-name="18+ Claudia y Nekane arde Granada" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Claudia y Nekane arde Granada
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Amanda en tiempos Revueltos" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Amanda en tiempos Revueltos
+#EXTINF:-1 tvg-id="" tvg-name="18+ Amanda en tiempos Revueltos" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Amanda en tiempos Revueltos
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Chocoolate en Barra !!!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Chocoolate en Barra !!!
+#EXTINF:-1 tvg-id="" tvg-name="18+ Chocoolate en Barra !!!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Chocoolate en Barra !!!
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Culos en Forma y mucha Canela" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Culos en Forma y mucha Canela
+#EXTINF:-1 tvg-id="" tvg-name="18+ Culos en Forma y mucha Canela" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Culos en Forma y mucha Canela
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Desvirgamos el Culo de Lina" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Desvirgamos el Culo de Lina
+#EXTINF:-1 tvg-id="" tvg-name="18+ Desvirgamos el Culo de Lina" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Desvirgamos el Culo de Lina
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Calabacines por el Ojete !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Calabacines por el Ojete !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Calabacines por el Ojete !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Calabacines por el Ojete !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Perra en Celo !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Perra en Celo !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Perra en Celo !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Perra en Celo !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Monica Conde !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura con Monica Conde !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Monica Conde !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura con Monica Conde !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Tina Fire a Full" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura con Tina Fire a Full
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Tina Fire a Full" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura con Tina Fire a Full
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Mónica se calienta por Facebook !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Mónica se calienta por Facebook !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Mónica se calienta por Facebook !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Mónica se calienta por Facebook !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Rompiendo Culos Inocentes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Rompiendo Culos Inocentes
+#EXTINF:-1 tvg-id="" tvg-name="18+ Rompiendo Culos Inocentes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Rompiendo Culos Inocentes
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bryan vende su novia de 19" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bryan vende su novia de 19
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bryan vende su novia de 19" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bryan vende su novia de 19
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cervantes en el Anal de la Mancha !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cervantes en el Anal de la Mancha !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cervantes en el Anal de la Mancha !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cervantes en el Anal de la Mancha !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Candela cazando Universitarios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Candela cazando Universitarios
+#EXTINF:-1 tvg-id="" tvg-name="18+ Candela cazando Universitarios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Candela cazando Universitarios
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Devora la Tatuadora Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Devora la Tatuadora Hot
+#EXTINF:-1 tvg-id="" tvg-name="18+ Devora la Tatuadora Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Devora la Tatuadora Hot
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Famoso T5 quiere ser actor Porno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Famoso T5 quiere ser actor Porno
+#EXTINF:-1 tvg-id="" tvg-name="18+ Famoso T5 quiere ser actor Porno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Famoso T5 quiere ser actor Porno
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Camara Escondida en el Bolso" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Camara Escondida en el Bolso
+#EXTINF:-1 tvg-id="" tvg-name="18+ Camara Escondida en el Bolso" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Camara Escondida en el Bolso
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Los Sexons sin Limites" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Los Sexons sin Limites
+#EXTINF:-1 tvg-id="" tvg-name="18+ Los Sexons sin Limites" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Los Sexons sin Limites
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Nacho Vidal y Melody Stars" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Nacho Vidal y Melody Stars
+#EXTINF:-1 tvg-id="" tvg-name="18+ Nacho Vidal y Melody Stars" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Nacho Vidal y Melody Stars
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Otra Famosa salta al Cine Porno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Otra Famosa salta al Cine Porno
+#EXTINF:-1 tvg-id="" tvg-name="18+ Otra Famosa salta al Cine Porno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Otra Famosa salta al Cine Porno
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Para Ashley nada es Suficiente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Para Ashley nada es Suficiente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Para Ashley nada es Suficiente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Para Ashley nada es Suficiente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Mia Marin sin Asco" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura con Mia Marin sin Asco
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Mia Marin sin Asco" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura con Mia Marin sin Asco
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Vicious" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura Vicious
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Vicious" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura Vicious
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Perdido en el Paraíso" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura Perdido en el Paraíso
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Perdido en el Paraíso" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura Perdido en el Paraíso
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con la Teen Maria" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura con la Teen Maria
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con la Teen Maria" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura con la Teen Maria
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Sabor Canela" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura Sabor Canela
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura Sabor Canela" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura Sabor Canela
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Lulu sin Filtro" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Putalocura con Lulu sin Filtro
+#EXTINF:-1 tvg-id="" tvg-name="18+ Putalocura con Lulu sin Filtro" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Putalocura con Lulu sin Filtro
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Gala desafiada a comerse un Negrito" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Gala desafiada a comerse un Negrito
+#EXTINF:-1 tvg-id="" tvg-name="18+ Gala desafiada a comerse un Negrito" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Gala desafiada a comerse un Negrito
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Terapia Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Terapia Caliente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Terapia Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Terapia Caliente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Vivi se deja hacer Deditos !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Vivi se deja hacer Deditos !!
+#EXTINF:-1 tvg-id="" tvg-name="18+ Vivi se deja hacer Deditos !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Vivi se deja hacer Deditos !!
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Colgada en un Pollón !!!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Colgada en un Pollón !!!
+#EXTINF:-1 tvg-id="" tvg-name="18+ Colgada en un Pollón !!!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Colgada en un Pollón !!!
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cita a Ciegas en la Habana 2" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cita a Ciegas en la Habana 2
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cita a Ciegas en la Habana 2" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cita a Ciegas en la Habana 2
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Follada de Campeonato" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Follada de Campeonato
+#EXTINF:-1 tvg-id="" tvg-name="18+ Follada de Campeonato" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Follada de Campeonato
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Hambrientas de Carne Fresca" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Hambrientas de Carne Fresca
+#EXTINF:-1 tvg-id="" tvg-name="18+ Hambrientas de Carne Fresca" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Hambrientas de Carne Fresca
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Vaneza Caza a un usuario de Parejas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Vaneza Caza a un usuario de Parejas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Vaneza Caza a un usuario de Parejas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Vaneza Caza a un usuario de Parejas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La Teen Daytona Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La Teen Daytona Hot
+#EXTINF:-1 tvg-id="" tvg-name="18+ La Teen Daytona Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La Teen Daytona Hot
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Masaje a Rodillo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Masaje a Rodillo
+#EXTINF:-1 tvg-id="" tvg-name="18+ Masaje a Rodillo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Masaje a Rodillo
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Barbie la Tetona" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Barbie la Tetona
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Barbie la Tetona" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Barbie la Tetona
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Noa se Graba en Camara Oculta." tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Noa se Graba en Camara Oculta.
+#EXTINF:-1 tvg-id="" tvg-name="18+ Noa se Graba en Camara Oculta." tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Noa se Graba en Camara Oculta.
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Ana Spears" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Ana Spears
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Ana Spears" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Ana Spears
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Rebeca la Profe de Alemán" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Rebeca la Profe de Alemán
+#EXTINF:-1 tvg-id="" tvg-name="18+ Rebeca la Profe de Alemán" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Rebeca la Profe de Alemán
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+  Secuestrando a Abella Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+  Secuestrando a Abella Hot
+#EXTINF:-1 tvg-id="" tvg-name="18+  Secuestrando a Abella Hot" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+  Secuestrando a Abella Hot
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex con Pamela Rios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex con Pamela Rios
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex con Pamela Rios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex con Pamela Rios
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Nekane y Natti" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Nekane y Natti
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Nekane y Natti" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Nekane y Natti
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SeXMex Ashley Gray" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SeXMex Ashley Gray
+#EXTINF:-1 tvg-id="" tvg-name="18+ SeXMex Ashley Gray" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SeXMex Ashley Gray
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Cornejo Full" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Cornejo Full
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Cornejo Full" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Cornejo Full
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Taboo Summer" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Taboo Summer
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Taboo Summer" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Taboo Summer
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Tentación Bajo el Sol" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Tentación Bajo el Sol
+#EXTINF:-1 tvg-id="" tvg-name="18+ Tentación Bajo el Sol" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Tentación Bajo el Sol
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Tina la Brasileña Tetona y Ardiente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Tina la Brasileña Tetona y Ardiente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Tina la Brasileña Tetona y Ardiente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Tina la Brasileña Tetona y Ardiente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Vicky quiere que la Taladren" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Vicky quiere que la Taladren
+#EXTINF:-1 tvg-id="" tvg-name="18+ Vicky quiere que la Taladren" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Vicky quiere que la Taladren
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Hambrientas de Carne" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Hambrientas de Carne
+#EXTINF:-1 tvg-id="" tvg-name="18+ Hambrientas de Carne" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Hambrientas de Carne
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Dyana sin piedad" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Dyana sin piedad
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Dyana sin piedad" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Dyana sin piedad
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Canela Skin Destroza el Casting" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Canela Skin Destroza el Casting
+#EXTINF:-1 tvg-id="" tvg-name="18+ Canela Skin Destroza el Casting" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Canela Skin Destroza el Casting
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Garota93 con su SexyPapito" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Garota93 con su SexyPapito
+#EXTINF:-1 tvg-id="" tvg-name="18+ Garota93 con su SexyPapito" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Garota93 con su SexyPapito
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Jordi recibe una Clase Maestra" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Jordi recibe una Clase Maestra
+#EXTINF:-1 tvg-id="" tvg-name="18+ Jordi recibe una Clase Maestra" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Jordi recibe una Clase Maestra
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Jordy y Lucy vuelven de Fiesta" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Jordy y Lucy vuelven de Fiesta
+#EXTINF:-1 tvg-id="" tvg-name="18+ Jordy y Lucy vuelven de Fiesta" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Jordy y Lucy vuelven de Fiesta
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Paulita Moldes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Paulita Moldes
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Paulita Moldes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Paulita Moldes
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Nekane gets Fucked" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Nekane gets Fucked
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Nekane gets Fucked" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Nekane gets Fucked
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Alexandra Paris" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Alexandra Paris
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Alexandra Paris" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Alexandra Paris
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Angie Miller Top" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Angie Miller Top
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Angie Miller Top" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Angie Miller Top
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Sexo Aceite y Raven" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Sexo Aceite y Raven
+#EXTINF:-1 tvg-id="" tvg-name="18+ Sexo Aceite y Raven" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Sexo Aceite y Raven
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Maria Sexy Teen" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Maria Sexy Teen
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Maria Sexy Teen" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Maria Sexy Teen
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Apolonia y Julia Esclavas Liberadas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Apolonia y Julia Esclavas Liberadas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Apolonia y Julia Esclavas Liberadas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Apolonia y Julia Esclavas Liberadas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Chocolate con Leche y Espuma" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Chocolate con Leche y Espuma
+#EXTINF:-1 tvg-id="" tvg-name="18+ Chocolate con Leche y Espuma" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Chocolate con Leche y Espuma
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cum Louder XXX Full Sex Complete" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cum Louder XXX Full Sex Complete
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cum Louder XXX Full Sex Complete" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cum Louder XXX Full Sex Complete
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cum Louder Olivia Austin and Friends" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cum Louder Olivia Austin and Friends
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cum Louder Olivia Austin and Friends" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cum Louder Olivia Austin and Friends
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Lana la Zorra de la Web" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Lana la Zorra de la Web
+#EXTINF:-1 tvg-id="" tvg-name="18+ Lana la Zorra de la Web" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Lana la Zorra de la Web
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Me gusta Mamar !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Me gusta Mamar !!
+#EXTINF:-1 tvg-id="" tvg-name="18+ Me gusta Mamar !!" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Me gusta Mamar !!
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Daphne sin Limites !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Daphne sin Limites !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Daphne sin Limites !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Daphne sin Limites !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Gia Kush" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Gia Kush
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Gia Kush" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Gia Kush
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Novata muy Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Novata muy Caliente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Novata muy Caliente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Novata muy Caliente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Tetona Liberada con Ganas !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Tetona Liberada con Ganas !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Tetona Liberada con Ganas !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Tetona Liberada con Ganas !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La fuente de la Leche Eterna" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La fuente de la Leche Eterna
+#EXTINF:-1 tvg-id="" tvg-name="18+ La fuente de la Leche Eterna" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La fuente de la Leche Eterna
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Pasajera muy Pajera" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Pasajera muy Pajera
+#EXTINF:-1 tvg-id="" tvg-name="18+ Pasajera muy Pajera" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Pasajera muy Pajera
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Victoria Vera" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Victoria Vera
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Victoria Vera" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Victoria Vera
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Maria Canela Candente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Puta Locura con Maria Canela Candente
+#EXTINF:-1 tvg-id="" tvg-name="18+ Puta Locura con Maria Canela Candente" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Puta Locura con Maria Canela Candente
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Analia Hot Coffe" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ SexMex Analia Hot Coffe
+#EXTINF:-1 tvg-id="" tvg-name="18+ SexMex Analia Hot Coffe" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ SexMex Analia Hot Coffe
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Vicky estaba como loca por un Negro !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Vicky estaba como loca por un Negro !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Vicky estaba como loca por un Negro !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Vicky estaba como loca por un Negro !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Yasmina una nueva Víctima" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Yasmina una nueva Víctima
+#EXTINF:-1 tvg-id="" tvg-name="18+ Yasmina una nueva Víctima" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Yasmina una nueva Víctima
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Beatriz la máquina de follar !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Beatriz la máquina de follar !
+#EXTINF:-1 tvg-id="" tvg-name="18+ Beatriz la máquina de follar !" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Beatriz la máquina de follar !
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Ass Paradise Full Sex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Ass Paradise Full Sex
+#EXTINF:-1 tvg-id="" tvg-name="18+ Ass Paradise Full Sex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Ass Paradise Full Sex
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Big Cream Katrina Moreno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Big Cream Katrina Moreno
+#EXTINF:-1 tvg-id="" tvg-name="18+ Big Cream Katrina Moreno" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Big Cream Katrina Moreno
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Los Simpsons Parodia X 2011" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Los Simpsons Parodia X 2011
+#EXTINF:-1 tvg-id="" tvg-name="18+ Los Simpsons Parodia X 2011" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Los Simpsons Parodia X 2011
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La Esposa Infiel (2006)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La Esposa Infiel (2006)
+#EXTINF:-1 tvg-id="" tvg-name="18+ La Esposa Infiel (2006)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La Esposa Infiel (2006)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Helena le come el rabo a su Hermano" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Helena le come el rabo a su Hermano
+#EXTINF:-1 tvg-id="" tvg-name="18+ Helena le come el rabo a su Hermano" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Helena le come el rabo a su Hermano
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Gladiator III 2002 Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Gladiator III 2002 Español
+#EXTINF:-1 tvg-id="" tvg-name="18+ Gladiator III 2002 Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Gladiator III 2002 Español
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cleopatra (2003) Audio Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cleopatra (2003) Audio Español
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cleopatra (2003) Audio Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cleopatra (2003) Audio Español
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bikini Model Academy 2015" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bikini Model Academy 2015
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bikini Model Academy 2015" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bikini Model Academy 2015
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Batman XXX- Una Parodia" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Batman XXX- Una Parodia
+#EXTINF:-1 tvg-id="" tvg-name="18+ Batman XXX- Una Parodia" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Batman XXX- Una Parodia
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers XXX A Porn Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Avengers XXX A Porn Parody
+#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers XXX A Porn Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Avengers XXX A Porn Parody
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Academia de Sexo No 1" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Academia de Sexo No 1
+#EXTINF:-1 tvg-id="" tvg-name="18+ Academia de Sexo No 1" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Academia de Sexo No 1
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ The Teacher Full Movie" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ The Teacher Full Movie
+#EXTINF:-1 tvg-id="" tvg-name="18+ The Teacher Full Movie" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ The Teacher Full Movie
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Adulterio" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Adulterio
+#EXTINF:-1 tvg-id="" tvg-name="18+ Adulterio" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Adulterio
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Daddy’s Girl (2017)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Daddy’s Girl (2017)
+#EXTINF:-1 tvg-id="" tvg-name="18+ Daddy’s Girl (2017)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Daddy’s Girl (2017)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Devil Inside" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Devil Inside
+#EXTINF:-1 tvg-id="" tvg-name="18+ Devil Inside" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Devil Inside
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Justice League XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Justice League XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Justice League XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Justice League XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Mothers Love Anal Tooxxx" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Mothers Love Anal Tooxxx
+#EXTINF:-1 tvg-id="" tvg-name="18+ Mothers Love Anal Tooxxx" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Mothers Love Anal Tooxxx
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Permission (2018)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Permission (2018)
+#EXTINF:-1 tvg-id="" tvg-name="18+ Permission (2018)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Permission (2018)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Suicide Squad XXX Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Suicide Squad XXX Parody
+#EXTINF:-1 tvg-id="" tvg-name="18+ Suicide Squad XXX Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Suicide Squad XXX Parody
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Supergirl XXX  Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Supergirl XXX  Parody
+#EXTINF:-1 tvg-id="" tvg-name="18+ Supergirl XXX  Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Supergirl XXX  Parody
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Academia de Sexo No 1." tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Academia de Sexo No 1.
+#EXTINF:-1 tvg-id="" tvg-name="18+ Academia de Sexo No 1." tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Academia de Sexo No 1.
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ ADulterioX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ ADulterioX
+#EXTINF:-1 tvg-id="" tvg-name="18+ ADulterioX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ ADulterioX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ A Fuck To Remember" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ A Fuck To Remember
+#EXTINF:-1 tvg-id="" tvg-name="18+ A Fuck To Remember" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ A Fuck To Remember
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Alison Tyler Flex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Alison Tyler Flex
+#EXTINF:-1 tvg-id="" tvg-name="18+ Alison Tyler Flex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Alison Tyler Flex
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ All About Sex to Anna" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ All About Sex to Anna
+#EXTINF:-1 tvg-id="" tvg-name="18+ All About Sex to Anna" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ All About Sex to Anna
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Alumnas Calientes y Sobresalientes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Alumnas Calientes y Sobresalientes
+#EXTINF:-1 tvg-id="" tvg-name="18+ Alumnas Calientes y Sobresalientes" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Alumnas Calientes y Sobresalientes
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Amateur Anal Sluts" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Amateur Anal Sluts
+#EXTINF:-1 tvg-id="" tvg-name="18+ Amateur Anal Sluts" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Amateur Anal Sluts
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Amber And The Sheriff" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Amber And The Sheriff
+#EXTINF:-1 tvg-id="" tvg-name="18+ Amber And The Sheriff" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Amber And The Sheriff
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ A Megan Rain le rompen el culo en Trío" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ A Megan Rain le rompen el culo en Trío
+#EXTINF:-1 tvg-id="" tvg-name="18+ A Megan Rain le rompen el culo en Trío" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ A Megan Rain le rompen el culo en Trío
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Amigas comparten a Novios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Amigas comparten a Novios
+#EXTINF:-1 tvg-id="" tvg-name="18+ Amigas comparten a Novios" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Amigas comparten a Novios
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Anal02 Extrem" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Anal02 Extrem
+#EXTINF:-1 tvg-id="" tvg-name="18+ Anal02 Extrem" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Anal02 Extrem
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Anal Sweetheart" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Anal Sweetheart
+#EXTINF:-1 tvg-id="" tvg-name="18+ Anal Sweetheart" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Anal Sweetheart
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ And Confused" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ And Confused
+#EXTINF:-1 tvg-id="" tvg-name="18+ And Confused" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ And Confused
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ A Rubdown To RememberXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ A Rubdown To RememberXXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ A Rubdown To RememberXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ A Rubdown To RememberXXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Ashton blake" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Ashton blake
+#EXTINF:-1 tvg-id="" tvg-name="18+ Ashton blake" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Ashton blake
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Asiática tetona y buen Culo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Asiática tetona y buen Culo
+#EXTINF:-1 tvg-id="" tvg-name="18+ Asiática tetona y buen Culo" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Asiática tetona y buen Culo
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Asking Price" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Asking Price
+#EXTINF:-1 tvg-id="" tvg-name="18+ Asking Price" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Asking Price
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Assh Lee Elegant Angel" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Assh Lee Elegant Angel
+#EXTINF:-1 tvg-id="" tvg-name="18+ Assh Lee Elegant Angel" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Assh Lee Elegant Angel
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Assistant FailXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Assistant FailXXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Assistant FailXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Assistant FailXXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers vs X-Men Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Avengers vs X-Men Parody
+#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers vs X-Men Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Avengers vs X-Men Parody
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241845.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers XXX A Porn Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Avengers XXX A Porn Parody
+#EXTINF:-1 tvg-id="" tvg-name="18+ Avengers XXX A Porn Parody" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Avengers XXX A Porn Parody
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Axel Braun's Cougar Alert" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Axel Braun's Cougar Alert
+#EXTINF:-1 tvg-id="" tvg-name="18+ Axel Braun's Cougar Alert" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Axel Braun's Cougar Alert
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Axel Brauns Nylons" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Axel Brauns Nylons
+#EXTINF:-1 tvg-id="" tvg-name="18+ Axel Brauns Nylons" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Axel Brauns Nylons
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Baby Fakings Facultad" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Baby Fakings Facultad
+#EXTINF:-1 tvg-id="" tvg-name="18+ Baby Fakings Facultad" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Baby Fakings Facultad
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bad Girls 8 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bad Girls 8 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bad Girls 8 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bad Girls 8 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bangbus Colombiano para las Pivas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bangbus Colombiano para las Pivas
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bangbus Colombiano para las Pivas" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bangbus Colombiano para las Pivas
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Banging Her Brother In LawXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Banging Her Brother In LawXXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Banging Her Brother In LawXXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Banging Her Brother In LawXXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bangs hot sister Mexican" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bangs hot sister Mexican
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bangs hot sister Mexican" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bangs hot sister Mexican
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Batman XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Batman XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Batman XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Batman XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bex_Ariana Zoe Fest" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bex_Ariana Zoe Fest
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bex_Ariana Zoe Fest" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bex_Ariana Zoe Fest
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+  Big Booty Mandy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+  Big Booty Mandy
+#EXTINF:-1 tvg-id="" tvg-name="18+  Big Booty Mandy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+  Big Booty Mandy
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bikini Model Academy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bikini Model Academy
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bikini Model Academy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bikini Model Academy
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Brandi Bae Sexercise Slut Oil" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Brandi Bae Sexercise Slut Oil
+#EXTINF:-1 tvg-id="" tvg-name="18+ Brandi Bae Sexercise Slut Oil" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Brandi Bae Sexercise Slut Oil
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Brazzers.10th.Anniversary.Pt.1" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Brazzers.10th.Anniversary.Pt.1
+#EXTINF:-1 tvg-id="" tvg-name="18+ Brazzers.10th.Anniversary.Pt.1" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Brazzers.10th.Anniversary.Pt.1
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Brazzers.10th.Anniversary.Pt.2" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Brazzers.10th.Anniversary.Pt.2
+#EXTINF:-1 tvg-id="" tvg-name="18+ Brazzers.10th.Anniversary.Pt.2" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Brazzers.10th.Anniversary.Pt.2
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Britney Spears Su primer Video XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Britney Spears Su primer Video XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Britney Spears Su primer Video XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Britney Spears Su primer Video XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Bubble Gum Girls" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Bubble Gum Girls
+#EXTINF:-1 tvg-id="" tvg-name="18+ Bubble Gum Girls" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Bubble Gum Girls
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Catfished" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Catfished
+#EXTINF:-1 tvg-id="" tvg-name="18+ Catfished" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Catfished
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ CeCe Capella Cece Perky" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ CeCe Capella Cece Perky
+#EXTINF:-1 tvg-id="" tvg-name="18+ CeCe Capella Cece Perky" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ CeCe Capella Cece Perky
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Cleopatra Full en Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Cleopatra Full en Español
+#EXTINF:-1 tvg-id="" tvg-name="18+ Cleopatra Full en Español" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Cleopatra Full en Español
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Community Sex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Community Sex
+#EXTINF:-1 tvg-id="" tvg-name="18+ Community Sex" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Community Sex
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Don't Fuck My Sister" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Don't Fuck My Sister
+#EXTINF:-1 tvg-id="" tvg-name="18+ Don't Fuck My Sister" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Don't Fuck My Sister
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Dándole repaso a hermanastra y su amiga" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Dándole repaso a hermanastra y su amiga
+#EXTINF:-1 tvg-id="" tvg-name="18+ Dándole repaso a hermanastra y su amiga" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Dándole repaso a hermanastra y su amiga
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ El Noviete de mi Hija" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ El Noviete de mi Hija
+#EXTINF:-1 tvg-id="" tvg-name="18+ El Noviete de mi Hija" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ El Noviete de mi Hija
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Estudiantes Vs Teachers XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Estudiantes Vs Teachers XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Estudiantes Vs Teachers XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Estudiantes Vs Teachers XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Estudiantes prontas para gozarX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Estudiantes prontas para gozarX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Estudiantes prontas para gozarX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Estudiantes prontas para gozarX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Mae Spinner Gets Pussy Fucked" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Mae Spinner Gets Pussy Fucked
+#EXTINF:-1 tvg-id="" tvg-name="18+ Mae Spinner Gets Pussy Fucked" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Mae Spinner Gets Pussy Fucked
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Girls Final Payload 2017 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Girls Final Payload 2017 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Girls Final Payload 2017 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Girls Final Payload 2017 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Fucked My StepMom XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Fucked My StepMom XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Fucked My StepMom XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Fucked My StepMom XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Gladiator III 2002 Español XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Gladiator III 2002 Español XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Gladiator III 2002 Español XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Gladiator III 2002 Español XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Hacked XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Hacked XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Hacked XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Hacked XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ House 2 Day 3 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ House 2 Day 3 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ House 2 Day 3 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ House 2 Day 3 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Indiscretions XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Indiscretions XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Indiscretions XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Indiscretions XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Justice League XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Justice League XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Justice League XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Justice League XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kamasutra 3D XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",Kamasutra 3D XXX
+#EXTINF:-1 tvg-id="" tvg-name="Kamasutra 3D XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",Kamasutra 3D XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Khaleesi’s Cunt XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Khaleesi’s Cunt XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Khaleesi’s Cunt XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Khaleesi’s Cunt XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Kim Kardashian  XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Kim Kardashian  XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Kim Kardashian  XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Kim Kardashian  XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La Esposa Infiel XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La Esposa Infiel XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ La Esposa Infiel XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La Esposa Infiel XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Latina Milfs 3 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Latina Milfs 3 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Latina Milfs 3 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Latina Milfs 3 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Mi padrastro abusa de mi XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Mi padrastro abusa de mi XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Mi padrastro abusa de mi XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Mi padrastro abusa de mi XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Mothers Love Anal XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Mothers Love Anal XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Mothers Love Anal XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Mothers Love Anal XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ My Little Schoolgirl Vol. 4 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ My Little Schoolgirl Vol. 4 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ My Little Schoolgirl Vol. 4 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ My Little Schoolgirl Vol. 4 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Nalgas Grandes Culioneros XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Nalgas Grandes Culioneros XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Nalgas Grandes Culioneros XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Nalgas Grandes Culioneros XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Permission Total XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Permission Total XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Permission Total XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Permission Total XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Public Penetration XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Public Penetration XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Public Penetration XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Public Penetration XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Russian Anal Sweethearts XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Russian Anal Sweethearts XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Russian Anal Sweethearts XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Russian Anal Sweethearts XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Smut GIRLS XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Smut GIRLS XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Smut GIRLS XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Smut GIRLS XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Step Sisters XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Step Sisters XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ Step Sisters XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Step Sisters XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ The Boys 8 por el Chiquito 8 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ The Boys 8 por el Chiquito 8 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ The Boys 8 por el Chiquito 8 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ The Boys 8 por el Chiquito 8 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ The Private Gladiator 2 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ The Private Gladiator 2 XXX
+#EXTINF:-1 tvg-id="" tvg-name="18+ The Private Gladiator 2 XXX" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ The Private Gladiator 2 XXX
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ La mansion de las perversiones (1982)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ La mansion de las perversiones (1982)
+#EXTINF:-1 tvg-id="" tvg-name="18+ La mansion de las perversiones (1982)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ La mansion de las perversiones (1982)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Patrizia (1981)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",Patrizia (1981)
+#EXTINF:-1 tvg-id="" tvg-name="Patrizia (1981)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",Patrizia (1981)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Scooby Doo A XXX  LATINO" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Scooby Doo A XXX  LATINO
+#EXTINF:-1 tvg-id="" tvg-name="18+ Scooby Doo A XXX  LATINO" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Scooby Doo A XXX  LATINO
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="18+ Sexo en la Mansion (Maison Close) (1991)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="ADULTOS",18+ Sexo en la Mansion (Maison Close) (1991)
+#EXTINF:-1 tvg-id="" tvg-name="18+ Sexo en la Mansion (Maison Close) (1991)" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX FUTBOL",18+ Sexo en la Mansion (Maison Close) (1991)
 http://samuraitv.online:8000/movie/samuraitv/rhVJ0z4aSB/241899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A3BIKINI" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",A3BIKINI
+#EXTINF:-1 tvg-id="" tvg-name="A3BIKINI" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",A3BIKINI
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267733
-#EXTINF:-1 tvg-id="" tvg-name="Adult 4K 01" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",Adult 4K 01
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K 01" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",Adult 4K 01
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267734
-#EXTINF:-1 tvg-id="" tvg-name="Adult 4K 02" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",Adult 4K 02
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K 02" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",Adult 4K 02
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267735
-#EXTINF:-1 tvg-id="" tvg-name="BIGASS" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",BIGASS
+#EXTINF:-1 tvg-id="" tvg-name="BIGASS" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",BIGASS
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267736
-#EXTINF:-1 tvg-id="" tvg-name="BIGDICK" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",BIGDICK
+#EXTINF:-1 tvg-id="" tvg-name="BIGDICK" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",BIGDICK
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267737
-#EXTINF:-1 tvg-id="" tvg-name="BLACKGIRLZ" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",BLACKGIRLZ
+#EXTINF:-1 tvg-id="" tvg-name="BLACKGIRLZ" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",BLACKGIRLZ
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267738
-#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",BLOWJOB
+#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",BLOWJOB
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267739
-#EXTINF:-1 tvg-id="" tvg-name="CUCKLUD" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",CUCKLUD
+#EXTINF:-1 tvg-id="" tvg-name="CUCKLUD" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",CUCKLUD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267740
-#EXTINF:-1 tvg-id="" tvg-name="FETISH" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",FETISH
+#EXTINF:-1 tvg-id="" tvg-name="FETISH" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",FETISH
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267741
-#EXTINF:-1 tvg-id="" tvg-name="iNTERRACIAL" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",iNTERRACIAL
+#EXTINF:-1 tvg-id="" tvg-name="iNTERRACIAL" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",iNTERRACIAL
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267742
-#EXTINF:-1 tvg-id="" tvg-name="LATINAX" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",LATINAX
+#EXTINF:-1 tvg-id="" tvg-name="LATINAX" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",LATINAX
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267743
-#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",MILF
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",MILF
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267744
-#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="A D U L T O S",Playboy
+#EXTINF:-1 tvg-id="" tvg-name="Playboy" tvg-logo="https://i.ibb.co/TmDTNfw/images-1.png" group-title="PLUX SOCCER",Playboy
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267745
-#EXTINF:-1 tvg-id="" tvg-name="BABE STATION" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",BABE STATION
+#EXTINF:-1 tvg-id="" tvg-name="BABE STATION" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",BABE STATION
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267747
-#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #1" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="A D U L T O S",Red Traffic #1
+#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #1" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="PLUX SOCCER",Red Traffic #1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267748
-#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #2" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="A D U L T O S",Red Traffic #2
+#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #2" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="PLUX SOCCER",Red Traffic #2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267749
-#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #3" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="A D U L T O S",Red Traffic #3
+#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #3" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="PLUX SOCCER",Red Traffic #3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267750
-#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #4" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="A D U L T O S",Red Traffic #4
+#EXTINF:-1 tvg-id="" tvg-name="Red Traffic #4" tvg-logo="https://i.ibb.co/PYGK5nt/Xxx-Adult-Rubber-Stamp-square.jpg" group-title="PLUX SOCCER",Red Traffic #4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267751
-#EXTINF:-1 tvg-id="" tvg-name="XXX_2" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",XXX_2
+#EXTINF:-1 tvg-id="" tvg-name="XXX_2" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",XXX_2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267752
-#EXTINF:-1 tvg-id="" tvg-name="SX MX" tvg-logo="https://i.imgur.com/whee2TV.png" group-title="A D U L T O S",SX MX
+#EXTINF:-1 tvg-id="" tvg-name="SX MX" tvg-logo="https://i.imgur.com/whee2TV.png" group-title="PLUX SOCCER",SX MX
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267753
-#EXTINF:-1 tvg-id="" tvg-name="TEEN" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="A D U L T O S",TEEN
+#EXTINF:-1 tvg-id="" tvg-name="TEEN" tvg-logo="https://i.imgur.com/99SbUR2.png" group-title="PLUX SOCCER",TEEN
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267755
-#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/venus_ar.png" group-title="A D U L T O S",VENUS
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/venus_ar.png" group-title="PLUX SOCCER",VENUS
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/267757
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Adult Gay  " tvg-logo="" group-title="A D U L T O S",XXX | Adult Gay  
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Adult Gay  " tvg-logo="" group-title="PLUX SOCCER",XXX | Adult Gay  
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279523
-#EXTINF:-1 tvg-id="" tvg-name="XXX | PH" tvg-logo="" group-title="A D U L T O S",XXX | PH
+#EXTINF:-1 tvg-id="" tvg-name="XXX | PH" tvg-logo="" group-title="PLUX SOCCER",XXX | PH
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279524
-#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXTREME_LA3" tvg-logo="" group-title="A D U L T O S",XXX | SEXTREME_LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXTREME_LA3" tvg-logo="" group-title="PLUX SOCCER",XXX | SEXTREME_LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279526
-#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXTREME | 01" tvg-logo="" group-title="A D U L T O S",XXX | SEXTREME | 01
+#EXTINF:-1 tvg-id="" tvg-name="XXX | SEXTREME | 01" tvg-logo="" group-title="PLUX SOCCER",XXX | SEXTREME | 01
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279528
-#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA5" tvg-logo="" group-title="A D U L T O S",XXX | VENUS_LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA5" tvg-logo="" group-title="PLUX SOCCER",XXX | VENUS_LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279529
-#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA4" tvg-logo="" group-title="A D U L T O S",XXX | VENUS_LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA4" tvg-logo="" group-title="PLUX SOCCER",XXX | VENUS_LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279530
-#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA3" tvg-logo="" group-title="A D U L T O S",XXX | VENUS_LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX | VENUS_LA3" tvg-logo="" group-title="PLUX SOCCER",XXX | VENUS_LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279531
-#EXTINF:-1 tvg-id="" tvg-name="XXX | PINKO_LA4" tvg-logo="" group-title="A D U L T O S",XXX | PINKO_LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX | PINKO_LA4" tvg-logo="" group-title="PLUX SOCCER",XXX | PINKO_LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279537
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="" group-title="A D U L T O S",XXX:PINKO_LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:PINKO_LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279538
-#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="" group-title="A D U L T O S",XXX:VENUS_LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:VENUS_LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:VENUS_LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279539
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="" group-title="A D U L T O S",XXX:PINKO_LA10
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA10" tvg-logo="" group-title="PLUX SOCCER",XXX:PINKO_LA10
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279540
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA9" tvg-logo="" group-title="A D U L T O S",XXX:PINKO_LA9
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA9" tvg-logo="" group-title="PLUX SOCCER",XXX:PINKO_LA9
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279541
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279542
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279543
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279544
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279545
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279546
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_1 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_1 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_1 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279547
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279548
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279549
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279550
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279551
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279552
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_2 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_2 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_2 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279553
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_3 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_3 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_3 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279554
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279555
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279556
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279557
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279558
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279559
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_5 LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_5 LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279560
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_5 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_5 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279561
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_5 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_5 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279562
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_5 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_5 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279563
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_5 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_5 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_5 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279564
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA6" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279565
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279566
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279567
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279568
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279569
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_6 LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_6 LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_6 LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279570
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_7 LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_7 LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279571
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_7 LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_7 LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279572
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA2" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_7 LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_7 LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_7 LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279573
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279574
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA1" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279575
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA9
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA9" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA9
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279576
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA8" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA8
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA8" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA8
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279577
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA7
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA7" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA7
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279578
-#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="" group-title="A D U L T O S",XXX:HOT_LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:HOT_LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:HOT_LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279579
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="" group-title="A D U L T O S",XXX:B6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B6" tvg-logo="" group-title="PLUX SOCCER",XXX:B6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279580
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="" group-title="A D U L T O S",XXX:B5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B5" tvg-logo="" group-title="PLUX SOCCER",XXX:B5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279581
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="" group-title="A D U L T O S",XXX:B4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B4" tvg-logo="" group-title="PLUX SOCCER",XXX:B4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279582
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="" group-title="A D U L T O S",XXX:B3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B3" tvg-logo="" group-title="PLUX SOCCER",XXX:B3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279583
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="" group-title="A D U L T O S",XXX:B2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B2" tvg-logo="" group-title="PLUX SOCCER",XXX:B2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279584
-#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="" group-title="A D U L T O S",XXX:B1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:B1" tvg-logo="" group-title="PLUX SOCCER",XXX:B1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279585
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="" group-title="A D U L T O S",XXX:A6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A6" tvg-logo="" group-title="PLUX SOCCER",XXX:A6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279586
-#EXTINF:-1 tvg-id="" tvg-name="XXX | DORCEL HD" tvg-logo="" group-title="A D U L T O S",XXX | DORCEL HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX | DORCEL HD" tvg-logo="" group-title="PLUX SOCCER",XXX | DORCEL HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279587
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="" group-title="A D U L T O S",XXX:A4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A4" tvg-logo="" group-title="PLUX SOCCER",XXX:A4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279588
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="" group-title="A D U L T O S",XXX:A3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A3" tvg-logo="" group-title="PLUX SOCCER",XXX:A3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279589
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="" group-title="A D U L T O S",XXX:A2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A2" tvg-logo="" group-title="PLUX SOCCER",XXX:A2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279590
-#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="" group-title="A D U L T O S",XXX:A1
+#EXTINF:-1 tvg-id="" tvg-name="XXX:A1" tvg-logo="" group-title="PLUX SOCCER",XXX:A1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279591
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA14
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA14" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA14
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279592
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA13" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA13
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA13" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA13
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279593
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA12
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA12" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA12
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279594
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA11
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA11" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA11
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279595
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA10
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA10" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA10
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279596
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA9
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA9" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA9
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279597
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA8
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA8" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA8
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279598
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA7
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA7" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA7
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279599
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279600
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA5
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA5" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA5
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279601
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279602
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA3
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA3" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279603
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE_LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE_LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE_LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279604
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="" group-title="A D U L T O S",XXX:EROTIC_4 LA6
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROTIC_4 LA6" tvg-logo="" group-title="PLUX SOCCER",XXX:EROTIC_4 LA6
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279605
-#EXTINF:-1 tvg-id="" tvg-name="XXX:X1 ( 18)" tvg-logo="" group-title="A D U L T O S",XXX:X1 ( 18)
+#EXTINF:-1 tvg-id="" tvg-name="XXX:X1 ( 18)" tvg-logo="" group-title="PLUX SOCCER",XXX:X1 ( 18)
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279606
-#EXTINF:-1 tvg-id="" tvg-name="XXX:EROX HD" tvg-logo="" group-title="A D U L T O S",XXX:EROX HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX:EROX HD" tvg-logo="" group-title="PLUX SOCCER",XXX:EROX HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279607
-#EXTINF:-1 tvg-id="" tvg-name="XXX:JASMIN TV" tvg-logo="" group-title="A D U L T O S",XXX:JASMIN TV
+#EXTINF:-1 tvg-id="" tvg-name="XXX:JASMIN TV" tvg-logo="" group-title="PLUX SOCCER",XXX:JASMIN TV
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279608
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY EUROPE" tvg-logo="" group-title="A D U L T O S",XXX:PLAYBOY EUROPE
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PLAYBOY EUROPE" tvg-logo="" group-title="PLUX SOCCER",XXX:PLAYBOY EUROPE
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279609
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE TV HD" tvg-logo="" group-title="A D U L T O S",XXX:PRIVATE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PRIVATE TV HD" tvg-logo="" group-title="PLUX SOCCER",XXX:PRIVATE TV HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279610
-#EXTINF:-1 tvg-id="" tvg-name="XXX:REDLIGHT HD" tvg-logo="" group-title="A D U L T O S",XXX:REDLIGHT HD
+#EXTINF:-1 tvg-id="" tvg-name="XXX:REDLIGHT HD" tvg-logo="" group-title="PLUX SOCCER",XXX:REDLIGHT HD
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279611
-#EXTINF:-1 tvg-id="" tvg-name="XXX | VIVID RED" tvg-logo="" group-title="A D U L T O S",XXX | VIVID RED
+#EXTINF:-1 tvg-id="" tvg-name="XXX | VIVID RED" tvg-logo="" group-title="PLUX SOCCER",XXX | VIVID RED
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279612
-#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA4" tvg-logo="" group-title="A D U L T O S",XXX:SEXTREME_LA4
+#EXTINF:-1 tvg-id="" tvg-name="XXX:SEXTREME_LA4" tvg-logo="" group-title="PLUX SOCCER",XXX:SEXTREME_LA4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279613
-#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA2" tvg-logo="" group-title="A D U L T O S",XXX:PINKO_LA2
+#EXTINF:-1 tvg-id="" tvg-name="XXX:PINKO_LA2" tvg-logo="" group-title="PLUX SOCCER",XXX:PINKO_LA2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279614
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Video 1" tvg-logo="" group-title="A D U L T O S",XXX | Video 1
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Video 1" tvg-logo="" group-title="PLUX SOCCER",XXX | Video 1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279615
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 1" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 1
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 1" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279616
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 10" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 10
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 10" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 10
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279617
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 12" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 12
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 12" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 12
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279618
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 13" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 13
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 13" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 13
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279619
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 14" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 14
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 14" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 14
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279620
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 15" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 15
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 15" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 15
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279621
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 16" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 16
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 16" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 16
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279622
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 17" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 17
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 17" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 17
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279623
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 18" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 18
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 18" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 18
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279624
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 2" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 2
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 2" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279626
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 20" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 20
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 20" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 20
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279627
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 3" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 3
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 3" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279628
-#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 7" tvg-logo="" group-title="A D U L T O S",XXX | Wow Girls 7
+#EXTINF:-1 tvg-id="" tvg-name="XXX | Wow Girls 7" tvg-logo="" group-title="PLUX SOCCER",XXX | Wow Girls 7
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279631
-#EXTINF:-1 tvg-id="" tvg-name="Wow Girls 8" tvg-logo="" group-title="A D U L T O S",Wow Girls 8
+#EXTINF:-1 tvg-id="" tvg-name="Wow Girls 8" tvg-logo="" group-title="PLUX SOCCER",Wow Girls 8
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279632
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 1" tvg-logo="" group-title="A D U L T O S",Wow Porn 1
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 1" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279633
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 11" tvg-logo="" group-title="A D U L T O S",Wow Porn 11
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 11" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 11
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279635
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 12" tvg-logo="" group-title="A D U L T O S",Wow Porn 12
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 12" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 12
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279636
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 14" tvg-logo="" group-title="A D U L T O S",Wow Porn 14
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 14" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 14
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279637
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 15" tvg-logo="" group-title="A D U L T O S",Wow Porn 15
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 15" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 15
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279638
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 16" tvg-logo="" group-title="A D U L T O S",Wow Porn 16
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 16" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 16
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279639
-#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 18" tvg-logo="" group-title="A D U L T O S",Wow Porn 18
+#EXTINF:-1 tvg-id="" tvg-name="Wow Porn 18" tvg-logo="" group-title="PLUX SOCCER",Wow Porn 18
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279641
-#EXTINF:-1 tvg-id="" tvg-name="XXX | SHEMALE TV 1" tvg-logo="https://www.anyshemale.com/images/v1/logo.png" group-title="A D U L T O S",XXX | SHEMALE TV 1
+#EXTINF:-1 tvg-id="" tvg-name="XXX | SHEMALE TV 1" tvg-logo="https://www.anyshemale.com/images/v1/logo.png" group-title="PLUX SOCCER",XXX | SHEMALE TV 1
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279650
-#EXTINF:-1 tvg-id="" tvg-name="XXX | SHEMALE TV 2" tvg-logo="https://cdnimages.shemaletubevideos.com/stp/images/mobile/logo.png" group-title="A D U L T O S",XXX | SHEMALE TV 2
+#EXTINF:-1 tvg-id="" tvg-name="XXX | SHEMALE TV 2" tvg-logo="https://cdnimages.shemaletubevideos.com/stp/images/mobile/logo.png" group-title="PLUX SOCCER",XXX | SHEMALE TV 2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279651
-#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS" tvg-logo="" group-title="A D U L T O S",XXX | FINE VIDS
+#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS" tvg-logo="" group-title="PLUX SOCCER",XXX | FINE VIDS
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279652
-#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 2" tvg-logo="" group-title="A D U L T O S",XXX | FINE VIDS 2
+#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 2" tvg-logo="" group-title="PLUX SOCCER",XXX | FINE VIDS 2
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279653
-#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 3" tvg-logo="" group-title="A D U L T O S",XXX | FINE VIDS 3
+#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 3" tvg-logo="" group-title="PLUX SOCCER",XXX | FINE VIDS 3
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279654
-#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 4" tvg-logo="" group-title="A D U L T O S",XXX | FINE VIDS 4
+#EXTINF:-1 tvg-id="" tvg-name="XXX | FINE VIDS 4" tvg-logo="" group-title="PLUX SOCCER",XXX | FINE VIDS 4
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/279655
 #EXTINF:-1 tvg-id="" tvg-name="Euro Indie Music Chart TV" tvg-logo="" group-title="PLUTO (ITALIA)",Euro Indie Music Chart TV
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/152981
