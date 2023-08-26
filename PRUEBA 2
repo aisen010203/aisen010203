@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="PELICULAS CAM",I link pelisI
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/144346
+EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://sm.ign.com/t/ign_es/screenshot/default/fkzkitxvqaangsf_ajzm.960.jpg" group-title="PELICULAS CAM",Spider-Man: Cruzando el multiverso
+https://be4235.rcr32.ams02.cdn112.com/hls2/02/04350/i48fvhw8s6hm_h/master.m3u8?t=GjWTs9yrptMzmzv6ABd8NftWPYIw-jq3OYLjAVUHTes&s=1693009138&e=43200&f=21750857&srv=30&asn=3816&sp=2000
 #EXTINF:-1 tvg-id="" tvg-name="peliculas cam" tvg-logo="https://archivos-cms.cinecolombia.com/images/_aliases/exhibition_poster/1/0/4/2/42401-2-esl-CO/eec2fa793835-warner_bb_cinecol_480x670.jpg" group-title="PELICULAS CAM",Blue Beetle
 https://lgdv7rsrciea.lions-vidcdn.com/hls2/01/00482/l85uxetbks80_n/master.m3u8?t=TaghbH1ZJVZw5pjHHDwi_kPJZxI5Knc5Pt0ZY-3zoxU&s=1693004355&e=129600&f=2412136&srv=dmdypdl3905p&i=0.4&sp=1500&p1=dmdypdl3905p&p2=dmdypdl3905p&asn=3816
 #EXTINF:-1 tvg-id="" tvg-name="PRUEBA 1" tvg-logo="https://i0.wp.com/cuatrobastardos.com/wp-content/uploads/2023/05/345853355_217097244389706_4712783620071269647_n.jpg?resize=1024%2C1024&ssl=1/logos/canales/claros/tudn-mediano.png" group-title="PELICULAS CAM",Megalodón 2: El gran abismo
