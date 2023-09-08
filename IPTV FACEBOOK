@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="FULL LISTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,FULL LISTA
+#EXTINF:-1 tvg-id="" tvg-name="FULL LISTA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="FULL LISTA",FULL LISTA
 https://bit.ly/31EHLDZ
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 1 LATINO VARIADO JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 1 LATINO VARIADO JAGUENK
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 1 LATINO VARIADO JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 1 LATINO VARIADO JAGUENK",IPTV 1 LATINO VARIADO JAGUENK
 http://samuraitv.online:8000/get.php?username=samuraitv&password=rhVJ0z4aSB&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 2 LATINO VARIADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 2 LATINO VARIADO
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 2 LATINO VARIADO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 2 LATINO VARIADO",IPTV 2 LATINO VARIADO
 http://104.37.187.234:8080/get.php?username=XB21cLxBT4&password=kdeojk2vDM&type=m3u_plus&output=mpegts&opcion=movies
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 3  TV D ESPAÑA JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 3  TV D ESPAÑA JAGUENK
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 3  TV D ESPAÑA JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 3  TV D ESPAÑA JAGUENK" ,IPTV 3  TV D ESPAÑA JAGUENK
 http://62.182.83.91:80/get.php?username=protoniom1201&password=wMLkbzV8dXCC&type=m3u_plus&output=ts
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 4 LATINO 3 JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 4 LATINO 3 JAGUENK
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 4 LATINO 3 JAGUENK" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 4 LATINO 3 JAGUENK" ,IPTV 4 LATINO 3 JAGUENK
 http://138.255.102.3:25461/get.php?username=FOXSPORTS1HDsd&password=RRZKamZw9a&type=m3u_plus&output=mpegts
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 5 FAMILIAR INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 5 FAMILIAR INFANTIL
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 5 FAMILIAR INFANTIL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 5 FAMILIAR INFANTIL" ,IPTV 5 FAMILIAR INFANTIL
 http://104.37.187.234:8080/get.php?username=Infantil&password=BMa4jlMAFu&type=m3u_plus&output=mpegts
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 6 VARIADO LAT ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 6 VARIADO LAT ENG
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 6 VARIADO LAT ENG" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 6 VARIADO LAT ENG" ,IPTV 6 VARIADO LAT ENG
 http://budtvlight.com:25461/get.php?username=bud-185308&password=acbd5173b7&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 7 VARIADO SAGAS CINE COLOMBIANO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 7 VARIADO SAGAS CINE COLOMBIANO
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 7 VARIADO SAGAS CINE COLOMBIANO" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 7 VARIADO SAGAS CINE COLOMBIANO" ,IPTV 7 VARIADO SAGAS CINE COLOMBIANO
 http://gumytv.lat:8080/get.php?username=tvpro&password=f2kmxgWrdm8x&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 8 VARIADO FAM PELIS VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 8 VARIADO FAM PELIS VOD
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 8 VARIADO FAM PELIS VOD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 8 VARIADO FAM PELIS VOD" ,IPTV 8 VARIADO FAM PELIS VOD
 http://sdmx.vip:8080/get.php?username=53135&password=aNsKaKVHrJcj&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 9 EUROPA LAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 9 EUROPA LAT
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 9 EUROPA LAT" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 9 EUROPA LAT" ,IPTV 9 EUROPA LAT
 http://tvpanel.one:80/get.php?username=eegs@hotmail.com&password=RCPeDrA4cU&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 10 CANALES DE TV 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 10 CANALES DE TV 1
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 10 CANALES DE TV 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 10 CANALES DE TV 1" ,IPTV 10 CANALES DE TV 1
 https://raw.githubusercontent.com/aisen010203/aisen010203/main/tv_channels_60
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 11 CANALES DE TV 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 11 CANALES DE TV 2
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 11 CANALES DE TV 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 11 CANALES DE TV 2" ,IPTV 11 CANALES DE TV 2
 http://sdmx.vip:8080/get.php?username=F4PLAYDF&password=YtzYQLkNBZaSP&type=m3u_plus
-#EXTINF:-1 tvg-id="" tvg-name="IPTV 12 PELIS INFANTILES FAMILIARES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV 12 PELIS INFANTILES FAMILIARES
+#EXTINF:-1 tvg-id="" tvg-name="IPTV 12 PELIS INFANTILES FAMILIARES" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV 12 PELIS INFANTILES FAMILIARES" ,IPTV 12 PELIS INFANTILES FAMILIARES
 https://bit.ly/45DMUxN
-#EXTINF:-1 tvg-id="" tvg-name="IPTV EUROPA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" ,IPTV EUROPA
+#EXTINF:-1 tvg-id="" tvg-name="IPTV EUROPA" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uCKsSSAGTIPDE9p4YYbhQcBlz9.jpg" group-title="IPTV EUROPA" ,IPTV EUROPA
 http://obsfullhd.tv:25461/get.php?username=Tex@epic&password=aEbP8BkLjw&type=m3u_plus
