@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 CO *HD" tvg-name="01 | DTVS CO | HD℗" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="TV DIRECT SPORTS",01 | DTVS CO | HD℗
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/234321
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC *HD | op2" tvg-name="02 | DTVS EC | HD℗" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="TV DIRECT SPORTS",02 | DTVS EC | HD℗
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/234322
-#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 AR *HD" tvg-name="03 | DTVS ARG | HD " tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="TV DIRECT SPORTS",03 | DTVS ARG | HD 
-http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/234323
+#EXTINF:-1 tvg-id="DIRECTV SPORTS 1 CO *HD" tvg-name="01 | DTVS CO | HD℗" tvg-logo="http://streamingprotv.com
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 1 EC *HQ" tvg-name="04 | DTVS PE | HD℗" tvg-logo="http://streamingprotv.com:8000/images/a14ac55a4f27472c5d894ec1c3c743d2.png" group-title="TV DIRECT SPORTS",04 | DTVS PE | HD℗
 http://samuraitv.online:8000/samuraitv/rhVJ0z4aSB/234324
 #EXTINF:-1 tvg-id="DIRECTV SPORTS 2 *HQ" tvg-name="05 | DTVS 2 | HD" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/612.png" group-title="TV DIRECT SPORTS",05 | DTVS 2 | HD
