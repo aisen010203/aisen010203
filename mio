@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | Animal Planet HD SUR" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | Animal Planet HD SUR
 http://home-playtv.com:8080/Rtr6yAJJqg/mEAp9xefv6/229242
-#EXTINF:-1 tvg-id="codigo traje rojo lat" tvg-name="COL | codigo traje rojo" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | Codigo traje rojo
-https://www.terabox.com/spanish/play/video?path=%2FUmVkLk9uZS4yMDI0LmNhbQ%3D%3D.CAST.mp4&t=-1
+#EXTINF:-1 tvg-id="jurado 2" tvg-name="COL | jurado 2" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | jurado 2 Cas
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:-1 tvg-id="No hables con extraños lat 2024" tvg-name="COL | No hables con extraños lat" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | No Hables con extraños 2024
 https://archive.org/download/no-hables-con-extranos/No_hables_con_extra%C3%B1os.avi
