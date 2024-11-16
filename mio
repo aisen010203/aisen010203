@@ -1,9 +1,19 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | Animal Planet HD SUR" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | Animal Planet HD SUR
 http://home-playtv.com:8080/Rtr6yAJJqg/mEAp9xefv6/229242
-#EXTINF:-1 tvg-id="jurado 2" tvg-name="COL | jurado 2" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | jurado 2 Cas
+#EXTINF:-1 tvg-id="jurado 2" tvg-name="ES-CAM | jurado 2" tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2024/11/Juror_2_poster_usa.webp" group-title="ESTRENOS 2024 CAM",ES-CAM | jurado 2 Cas
 https://2ith458pz9.guardstorage.net/hls_3/htOE2Dtc4wKBwep-p551yGkZc4klIQT2DP3V6o0snuVTPVzIxCuYv10gHeUNGjIx0EjuFSXKDw8dImKUdU8ZR5R-MR_uV5pMbslU9ls6cOP2yWMH9yBi1f5JJ9VefrCPQ9o6hONgrzOnCW4drW_gl4x5oPHrB2hvNHiMHfQPPbUlxgjK8nu41zIf4TymLHQ8hGt4GplLy7G7QWGM4-FHXw/index-v1-a1.m3u8?sig=-yu-I_Su2B6BPXKlEt2d_Q&expires=1731636103
-#EXTINF:-1 tvg-id="No hables con extraños lat 2024" tvg-name="COL | No hables con extraños lat" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | No Hables con extraños 2024
-https://archive.org/download/no-hables-con-extranos/No_hables_con_extra%C3%B1os.avi
-#EXTINF:-1 tvg-id="codigo traje rojo lat" tvg-name="COL | codigo traje rojo lat" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="COLOMBUS",COL | codigo traje rojo lat
-https://www.terabox.com/spanish/play/video?path=%2FUmVkLk9uZS4yMDI0LmNhbQ%3D%3D.CAST.mp4 
+#EXTINF:-1 tvg-id="No hables con extraños lat 2024" tvg-name="ES-CAM | No hables con extraños lat" tvg-logo="https://ganovideo.com/ganoapp/2024/10/t01TUL5X2oBNF0qjjgS4BXaWplJ-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | No Hables con extraños 2024
+https://s42.1ll.lat/0:/p/no_hables_con_extranos_espanol_2024.mp4
+#EXTINF:-1 tvg-id="codigo traje rojo lat" tvg-name="ES-CAM | codigo traje rojo lat" tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2024/11/Red_One_poster_usa.webp" group-title="ESTRENOS 2024 CAM",ES-CAM | codigo traje rojo lat
+https://b76rg533gp.guardstorage.net/hls_3/-Y7LkFHLVI2r3XdqIDLpSwfS2RwDaHInWqdygNs61_y_A8cG6PxYNyCcyn0WiEPkYrFk1LanKRJbDv5sm-2l_v2EE_ucpC8sq4127EzdeZABQYEDK1nd5g7mIL71CCcKuVUcBfC7-36aCnWlYC55h8kHgNUq72ZdesFzugpS6QLPBzCbMUfsRc6jF-fqUCoZ8H0MCKcFAnudZCGta0LLIg/index-f3-v1-a1.m3u8?sig=2ofFFnWH3Cs33-Ey21dIWg&expires=1731732855
+#EXTINF:-1 tvg-id="Gladiator 2 (2024)" tvg-name="ES-CAM | Gladiator 2 (2024)" tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2024/11/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg.webp" group-title="ESTRENOS 2024 CAM",ES-CAM| Gladiator 2 (2024)
+https://r9fqlot2xe.guardstorage.net/hls_3/AIlD_c2ldU650345Y0QkR2E0qmQKyLMAsrdvpqwKvL0zEFg2k95EWhk6Q3PAXrD8QWA4EIopCpP-g_YEO5FxPQ/index-v1-a1.m3u8?sig=VALIITU7c-ZuRbxm7SFtTQ&expires=1731732394
+#EXTINF:-1 tvg-id="Kill: Masacre en el tren" tvg-name="ES-CAM | Kill: Masacre en el tren" tvg-logo="https://ganovideo.com/ganoapp/2024/11/j8aqIMzHnVHgS98CD6lXtspSV2S-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Kill: Masacre en el tren
+https://s44.1ll.lat/0:/p/kill_masacre_en_el_tren_espanol_2024.mp4
+#EXTINF:-1 tvg-id="Mi villano favorito 4" tvg-name="ES-CAM | Mi villano favorito 4" tvg-logo="https://ganovideo.com/ganoapp/2024/08/wTpzSDfbUuHPEgqgt5vwVtPHhrb-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Mi villano favorito 4
+https://s39.1ll.lat/0:/p/mi_villano_favorito_4_espanol_2024.mp4
+#EXTINF:-1 tvg-id="Robot salvaje" tvg-name="ES-CAM | Robot salvaje" tvg-logo="https://ganovideo.com/ganoapp/2024/10/sDoXpaKZmrzCSJH63zZvQQ9A7VK-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Robot salvaje
+https://s38.1ll.lat/0:/p/robot_salvaje_espanol_2024.mp4
+#EXTINF:-1 tvg-id="Sonrie (Smile) 2" tvg-name="ES-CAM | Sonrie (Smile) 2" tvg-logo="https://ganovideo.com/ganoapp/2024/11/6AWBa4JFtaC4eEs48qjCCJd9BMr-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Sonrie (Smile) 2
+https://s44.1ll.lat/0:/p/sonrie_2_espanol_2024.mp4
