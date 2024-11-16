@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="animal.planet.mx" tvg-name="CUL | Animal Planet HD SUR" tvg-logo="https://static.epg.best/us/AnimalPlanet.us.png" group-title="CULTURA",CUL | Animal Planet HD SUR
-http://home-playtv.com:8080/Rtr6yAJJqg/mEAp9xefv6/229242
 #EXTINF:-1 tvg-id="jurado 2" tvg-name="ES-CAM | jurado 2" tvg-logo="https://detodopeliculas.nu/wp-content/uploads/2024/11/Juror_2_poster_usa.webp" group-title="ESTRENOS 2024 CAM",ES-CAM | jurado 2 Cas
 https://2ith458pz9.guardstorage.net/hls_3/htOE2Dtc4wKBwep-p551yGkZc4klIQT2DP3V6o0snuVTPVzIxCuYv10gHeUNGjIx0EjuFSXKDw8dImKUdU8ZR5R-MR_uV5pMbslU9ls6cOP2yWMH9yBi1f5JJ9VefrCPQ9o6hONgrzOnCW4drW_gl4x5oPHrB2hvNHiMHfQPPbUlxgjK8nu41zIf4TymLHQ8hGt4GplLy7G7QWGM4-FHXw/index-v1-a1.m3u8?sig=-yu-I_Su2B6BPXKlEt2d_Q&expires=1731636103
 #EXTINF:-1 tvg-id="No hables con extraños lat 2024" tvg-name="ES-CAM | No hables con extraños lat" tvg-logo="https://ganovideo.com/ganoapp/2024/10/t01TUL5X2oBNF0qjjgS4BXaWplJ-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | No Hables con extraños 2024
@@ -17,3 +15,7 @@ https://s39.1ll.lat/0:/p/mi_villano_favorito_4_espanol_2024.mp4
 https://s38.1ll.lat/0:/p/robot_salvaje_espanol_2024.mp4
 #EXTINF:-1 tvg-id="Sonrie (Smile) 2" tvg-name="ES-CAM | Sonrie (Smile) 2" tvg-logo="https://ganovideo.com/ganoapp/2024/11/6AWBa4JFtaC4eEs48qjCCJd9BMr-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Sonrie (Smile) 2
 https://s44.1ll.lat/0:/p/sonrie_2_espanol_2024.mp4
+#EXTINF:-1 tvg-id="Terrifier 3: Payaso Siniestro" tvg-name="ES-CAM | Terrifier 3: Payaso Siniestro" tvg-logo="https://ganovideo.com/ganoapp/2024/11/iaGfB2itLC8exBvfLUoadS0Q6tP-185x278.jpg" group-title="ESTRENOS 2024 CAM",ES-CAM | Terrifier 3: Payaso Siniestro
+https://s44.1ll.lat/0:/p/terrifier_3_espanol_2024.mp4
+#EXTINF:-1 tvg-id="La víspera de Halloween. Terrorifico El origen (Terrifier)" tvg-name="CUL | La víspera de Halloween. Terrorifico El origen (Terrifier)" tvg-logo="https://ganovideo.com/ganoapp/2024/10/k9e3ViDI661pnKsXCOV5w2uFK3K-185x278.jpg" group-title="CULTURA",CUL | La víspera de Halloween. Terrorifico El origen (Terrifier)
+https://s25.1ll.lat/0:/p/la_vispera_de_halloween_espanol_2024.mp4
